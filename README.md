@@ -1,5 +1,5 @@
 # Gamebuino-Thunder-Shoot
-Shoot em up for the Gamebuino.
+Shoot em up for the Gamebuino, still working on it, and open for any help :)
 
 http://gamebuino.com/forum/viewtopic.php?f=17&t=3667
 
