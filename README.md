@@ -18,8 +18,8 @@ Functions implemented :
 - Power bar + mega ray triangle : ok
 - score incrementing : ok
 - Ennemis shoot : ok
-- Multiple ennemi salves to add
-- other boss to add
+- Multiple ennemi salves : ok
+- other boss : ok
 
 Todo list :
 
