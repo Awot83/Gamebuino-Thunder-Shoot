@@ -27,3 +27,4 @@ Todo list :
 - bugs to fix : car shot still take bulets (white rectangle?)
 - change backgroud (levels)
 - gameplay to fit (enemy health, nb of bullets)
+- add music and sound
