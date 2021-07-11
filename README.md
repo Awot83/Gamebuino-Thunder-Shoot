@@ -1,6 +1,5 @@
 # Gamebuino-Thunder-Shoot
 Shoot em up for the Gamebuino, still working on it, and open for any help :)
- test GIT 2 
 
 ![](http://gamebuino.com/forum/download/file.php?id=1172)
 ![](http://gamebuino.com/forum/download/file.php?id=1173)
